@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "34kYIrOAvv39qDHphGTQDpx8rxXAM3hvTfl9aaEzUUeglXzvTcqSw/0ZmTLKtPvTiHU56BWDE15EIxySHsoiow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elena\\Desktop\\SweeftDigital\\8\\8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elena\\.nuget\\packages\\htmlagilitypack\\1.11.34\\htmlagilitypack.1.11.34.nupkg.sha512"
+  ],
+  "logs": []
+}

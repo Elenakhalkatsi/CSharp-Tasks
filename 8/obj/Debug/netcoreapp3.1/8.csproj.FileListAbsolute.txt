@@ -1,0 +1,15 @@
+C:\Users\Elena\Desktop\SweeftDigital\8\bin\Debug\netcoreapp3.1\8.exe
+C:\Users\Elena\Desktop\SweeftDigital\8\bin\Debug\netcoreapp3.1\8.deps.json
+C:\Users\Elena\Desktop\SweeftDigital\8\bin\Debug\netcoreapp3.1\8.runtimeconfig.json
+C:\Users\Elena\Desktop\SweeftDigital\8\bin\Debug\netcoreapp3.1\8.runtimeconfig.dev.json
+C:\Users\Elena\Desktop\SweeftDigital\8\bin\Debug\netcoreapp3.1\8.dll
+C:\Users\Elena\Desktop\SweeftDigital\8\bin\Debug\netcoreapp3.1\8.pdb
+C:\Users\Elena\Desktop\SweeftDigital\8\obj\Debug\netcoreapp3.1\8.csprojAssemblyReference.cache
+C:\Users\Elena\Desktop\SweeftDigital\8\obj\Debug\netcoreapp3.1\8.AssemblyInfoInputs.cache
+C:\Users\Elena\Desktop\SweeftDigital\8\obj\Debug\netcoreapp3.1\8.AssemblyInfo.cs
+C:\Users\Elena\Desktop\SweeftDigital\8\obj\Debug\netcoreapp3.1\8.dll
+C:\Users\Elena\Desktop\SweeftDigital\8\obj\Debug\netcoreapp3.1\8.pdb
+C:\Users\Elena\Desktop\SweeftDigital\8\obj\Debug\netcoreapp3.1\8.genruntimeconfig.cache
+C:\Users\Elena\Desktop\SweeftDigital\8\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Elena\Desktop\SweeftDigital\8\obj\Debug\netcoreapp3.1\8.csproj.CoreCompileInputs.cache
+C:\Users\Elena\Desktop\SweeftDigital\8\obj\Debug\netcoreapp3.1\8.csproj.CopyComplete
